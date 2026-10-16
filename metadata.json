@@ -1,0 +1,6 @@
+{
+  "name": "IR1 Express - Gestión Fiscal y Certificación CPA DGII",
+  "description": "Plataforma integral para personas físicas y contadores públicos autorizados (CPA): levantamiento de ingresos, deducción de gastos, evidencias, cálculo del IR-1 DGII y emisión de informes certificados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
